@@ -23,7 +23,7 @@ The Grammar Corrector is a web application designed to check and correct grammat
 
 ---
 
-Tools and Libraries Used:
+## Tools and Libraries Used:
 - **Flask:** Python web framework that serves the webpage and handles grammar correction API requests in app.py.
 - **language_tool_python:** Python library that checks and corrects English grammar in the backend using LanguageTool in app.py.
 - **Tailwind CSS:** CSS framework (via CDN) that styles the responsive frontend interface in index.html.
@@ -61,3 +61,10 @@ Uses LanguageTool to correct grammar and sends the fixed text back.
 Together:
 
 HTML shows the UI, JavaScript handles user actions and updates, and Python corrects grammar, creating a simple app to fix English text.
+
+---
+
+# Credits:
+- Dipika: Built the Python backend, integrating Flask and language_tool_python for grammar correction in app.py.
+- Jeeya: Developed the JavaScript functionality, implementing user interactions, API requests, and dynamic UI updates in script.js.
+- Dhriti: Designed and structured the HTML frontend, creating the responsive user interface with Tailwind CSS in index.html.
