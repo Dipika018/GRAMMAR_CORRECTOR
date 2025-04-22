@@ -1,7 +1,7 @@
 # GRAMMAR_GEEKS - GRAMMAR CORRECTOR
 
 ## Team Name: 
-**GRAMMAR GEEKS** 
+**GRAMMAR_GEEKS** 
 
 ## Project Title : 
 **GRAMMAR CORRECTOR** 
